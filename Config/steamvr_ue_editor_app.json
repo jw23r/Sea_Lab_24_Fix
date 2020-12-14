@@ -2,7 +2,7 @@
 	"source": "UE",
 	"applications": [
 		{
-			"app_key": "application.generated.ue.virtual-reality-bp-game-template-11590370.ue4editor.exe",
+			"app_key": "application.generated.ue.sealab-24-11590370.ue4editor.exe",
 			"launch_type": "url",
 			"url": "steam://launch/",
 			"action_manifest_path": "C:/Users/Connor/Desktop/GIT KRAKEN/Sea Lab 24/Sea_Lab_24_Fix/Config/SteamVRBindings/steamvr_manifest.json",
@@ -10,7 +10,7 @@
 			{
 				"en_us":
 				{
-					"name": "Virtual Reality BP Game Template-11590370 [UE Editor]"
+					"name": "Sealab 24-11590370 [UE Editor]"
 				}
 			}
 		}
